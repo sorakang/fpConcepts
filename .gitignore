@@ -1,0 +1,6 @@
+# Ignore file generated
+*.class
+.DS_Store
+.idea/
+.vscode/
+out/
